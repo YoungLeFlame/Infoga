@@ -8,6 +8,7 @@
 from setuptools import setup 
 
 setup(
+    py_modules=[],
     name='infoga',
 
     version='0.1.5',
