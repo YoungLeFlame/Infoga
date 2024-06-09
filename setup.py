@@ -18,6 +18,7 @@ setup(
     author_email='m4ll0k@protonmail.com',
     license='GPLv3',
 
+    py_modules=[],
     install_requires = ['colorama','requests','urllib3'],
     console =['infoga.py'],
 )
